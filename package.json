@@ -1,0 +1,27 @@
+{
+  "name": "genymotion",
+  "version": "0.1.0",
+  "description": "Launch Genymotion player from node.js and wait for it to be as booted as possible.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mickhansen/genymotion.js"
+  },
+  "keywords": [
+    "genymotion",
+    "player",
+    "boot"
+  ],
+  "author": "Mick Hansen <maker@mhansen.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mickhansen/genymotion.js/issues"
+  },
+  "homepage": "https://github.com/mickhansen/genymotion.js",
+  "dependencies": {
+    "bluebird": "^2.9.25"
+  }
+}

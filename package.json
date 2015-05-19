@@ -1,6 +1,6 @@
 {
   "name": "genymotion",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "Launch Genymotion player from node.js and wait for it to be as booted as possible.",
   "main": "lib/index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/mickhansen/genymotion.js",
   "dependencies": {
-    "bluebird": "^2.9.25"
+    "bluebird": "^2.9.25",
+    "debug": "^2.2.0"
   }
 }

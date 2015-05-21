@@ -1,7 +1,7 @@
 # genymotion.js
 Launch Genymotion player from node.js and wait for it to be as booted as possible.
 
-Specifically it looks for the presense of an IP for the VM, the log message "[SensorManager] Connected" and for the android boot animation to finish.
+Specifically it looks for the presense of an IP for the VM for the android boot animation to finish.
 The android emulator STILL might not be fully booted at this point so you might want to wait a further 5-10s depending on system resources.
 
 ## Installation

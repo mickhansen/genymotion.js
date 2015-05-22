@@ -1,6 +1,6 @@
 {
   "name": "genymotion",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Launch Genymotion player from node.js and wait for it to be as booted as possible.",
   "main": "lib/index.js",
   "scripts": {
